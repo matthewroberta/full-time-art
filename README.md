@@ -1,3 +1,10 @@
+# First Post
+## This Site
+A blog to document my experiments to move from a new and emerging to established artist.
+
+## HewBoy
+The site where I'll sell my art and music.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/matthewroberta/full-time-art/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
